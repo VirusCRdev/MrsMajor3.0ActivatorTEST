@@ -1,0 +1,3 @@
+@echo off
+echo MrsMajor3.0 Activator Test...
+pause
